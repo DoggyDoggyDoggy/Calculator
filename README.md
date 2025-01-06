@@ -10,7 +10,9 @@ Calculator is an Android application that provides basic arithmetic operations f
 - **ViewModel:** To manage and retain UI-related data during configuration changes.
 
 ## Acknowledgements
-This project was inspired by a YouTube tutorial. All credits for the initial idea and implementation belong to the original tutorial creator.
+This project was inspired by a YouTube tutorial. All credits for the initial idea and implementation belong to the original tutorial creator, [EasyTuto](https://www.youtube.com/@EasyTuto1).
+
+GitHub repository of the tutorial creator: [bimalkaf](https://github.com/bimalkaf)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for new features, optimizations, or bug fixes, feel free to open an issue or submit a pull request.
